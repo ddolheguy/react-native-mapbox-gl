@@ -7,9 +7,9 @@
 //
 
 #import <Mapbox/Mapbox.h>
-#import <React/RCTView.h>
-#import <React/RCTEventDispatcher.h>
-#import <React/RCTBridgeModule.h>
+#import "RCTView.h"
+#import "RCTEventDispatcher.h"
+#import "RCTBridgeModule.h"
 
 @interface RCTMapboxGL : RCTView <MGLMapViewDelegate>
 

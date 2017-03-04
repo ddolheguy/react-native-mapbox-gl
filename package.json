@@ -36,9 +36,5 @@
   "dependencies": {
     "babel-eslint": "^6.1.2",
     "lodash": "^4.13.1"
-  },
-  "peerDependencies": {
-    "react": ">=15.4.0",
-    "react-native": ">=0.40"
   }
 }

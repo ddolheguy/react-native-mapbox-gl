@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Mapbox. All rights reserved.
 //
 
-#import <React/RCTViewManager.h>
+#import "RCTViewManager.h"
 
 @interface RCTMapboxGLManager : RCTViewManager {
     NSMutableSet * _recentPacks;
